@@ -4,7 +4,7 @@ List<Map<String, dynamic>> productData = [
     "name": "Smartphone X",
     "brand": "Brand A",
     "price": 599.99,
-    "qty" : 23,
+    "qty" : 1,
     "discountPercentage"  : 2.1,
     "stock" :  23,
     "category": "Smartphones",
@@ -30,7 +30,7 @@ List<Map<String, dynamic>> productData = [
     "images2"  : "https://img.freepik.com/premium-vector/isolated-smart-phone-template_1051-1932.jpg?w=740",
     "thumbnail": "smartphone_y_thumb.jpg",
     "description": "Flagship smartp hone with powerful performance.",
-    "qty" : 23,
+    "qty" : 1,
     "discountPercentage"  : 2.1,
     "images": [
       "smartphone_y_image1.jpg",
@@ -43,7 +43,7 @@ List<Map<String, dynamic>> productData = [
     "name": "Laptop X",
     "brand": "Brand C",
     "price": 999.99,
-    "qty" : 23,
+    "qty" : 1,
     "discountPercentage"  : 2.1,
     "rating"  : 4.90,
     "category": "Laptops",
@@ -63,7 +63,7 @@ List<Map<String, dynamic>> productData = [
     "brand": "Brand D",
     "price": 1299.99,
     "rating"  : 3.24,
-    "qty" : 23,
+    "qty" : 1,
     "discountPercentage"  : 2.1,
     "category": "Laptops",
     "images2" : "https://w7.pngwing.com/pngs/689/184/png-transparent-logo-brand-asus-republic-of-gamers-product-design-taehyung-best-of-me-logo-asus-electronic-sports-thumbnail.png",
@@ -87,7 +87,7 @@ List<Map<String, dynamic>> productData = [
     "stock" :  23,
     "thumbnail": "headphones_a_thumb.jpg",
     "description": "Over-ear headphones with noise cancellation.",
-    "qty" : 23,
+    "qty" : 1,
     "discountPercentage"  : 2.1,
     "images": [
       "headphones_a_image1.jpg",
@@ -106,7 +106,7 @@ List<Map<String, dynamic>> productData = [
     "category": "Headphones",
     "thumbnail": "headphones_b_thumb.jpg",
     "description": "Wireless earbuds with long battery life.",
-    "qty" : 23,
+    "qty" : 1,
     "discountPercentage"  : 2.1,
     "images": [
       "headphones_b_image1.jpg",
@@ -125,7 +125,7 @@ List<Map<String, dynamic>> productData = [
      "category": "Smart Home",
     "thumbnail": "smart_speaker_x_thumb.jpg",
     "description": "Voice-controlled smart speaker for home entertainment.",
-    "qty" : 23,
+    "qty" : 1,
     "discountPercentage"  : 2.1,
     "images": [
       "smart_speaker_x_image1.jpg",
@@ -144,7 +144,7 @@ List<Map<String, dynamic>> productData = [
     "category": "Smart Home",
     "thumbnail": "smart_bulb_thumb.jpg",
     "description": "Wi-Fi enabled smart bulb for customizable lighting.",
-    "qty" : 23,
+    "qty" : 1,
     "discountPercentage"  : 2.1,
     "images": [
       "smart_bulb_image1.jpg",
@@ -163,7 +163,7 @@ List<Map<String, dynamic>> productData = [
     "images2" : "https://w7.pngwing.com/pngs/163/932/png-transparent-video-camera-canon-camcorder-video-camera-angle-gadget-electronics-thumbnail.png",
     "thumbnail": "camera_x_thumb.jpg",
     "description": "Compact digital camera with advanced imaging technology.",
-    "qty" : 23,
+    "qty" : 1,
     "discountPercentage"  : 2.1,
 
     "images": [
@@ -182,7 +182,8 @@ List<Map<String, dynamic>> productData = [
     "category": "Cameras",
     "rating"  : 4.99,
     "thumbnail": "mirrorless_camera_y_thumb.jpg",
-    "description": "Interchangeable  camera for professional photography.", "qty" : 23,
+    "description": "Interchangeable  camera for professional photography.",
+    "qty" : 1,
     "discountPercentage"  : 2.1,
 
     "images": [

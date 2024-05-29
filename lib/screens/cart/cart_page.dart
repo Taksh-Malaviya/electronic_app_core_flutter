@@ -54,7 +54,7 @@ class _Cart_pageState extends State<Cartpage> {
         backgroundColor: Colors.grey.shade100,
         centerTitle: true,
       ),
-      body: (cart.isEmpty)
+      body: (cart.isNotEmpty)
           ? Stack(
         children: [
           Column(
@@ -143,7 +143,7 @@ class _Cart_pageState extends State<Cartpage> {
                                         height: h * 0.04,
                                         width: w * 0.095,
                                         decoration: BoxDecoration(
-                                          color: const Color(0xffededed),
+                                          color:  Colors.grey.shade400,
                                           borderRadius:
                                           BorderRadius.circular(10),
                                         ),
@@ -176,7 +176,7 @@ class _Cart_pageState extends State<Cartpage> {
                                         height: h * 0.04,
                                         width: w * 0.095,
                                         decoration: BoxDecoration(
-                                          color: Colors.brown,
+                                          color: Color(0xfff03D3D3D),
                                           borderRadius:
                                           BorderRadius.circular(10),
                                         ),
